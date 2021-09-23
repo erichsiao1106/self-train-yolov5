@@ -36,7 +36,7 @@ pip install pyQt5
 pip install lxml
 ```
 
-## 3.移動到到 labelimg 資料夾
+## 3.移動到 labelimg 資料夾
 
 ```bash
 pyrcc5 -o libs/resources.py resources.qrc
