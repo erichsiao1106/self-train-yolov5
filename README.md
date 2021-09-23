@@ -1,4 +1,4 @@
-發想一個主題，例如1.<font color=red>口罩配戴</font>偵測 或是 2.<font color=>上班偷用手機</font>檢測 3.寶可夢搜尋  .. all you want <br>
+發想一個主題，例如1.**口罩配戴**偵測 或是 2.**上班偷用手機**檢測 3.**脫帽** 4.**寶可夢**搜尋  .. all you want <br>
 自己建造Dataset (利用takepic.py可以輕鬆建置自己的train圖集) <br>
 依照下面步驟，設置環境、label自己的訓練資料、訓練模型 <br>
 將訓練出來的模型pt檔(pytorch)來偵測 <br>
