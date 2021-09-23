@@ -61,3 +61,8 @@ val: images
 nc: 4  # number of classes
 names: ['glass','phone','mask','clean_face']  # class names
 ```
+
+## 6.開始訓練
+```bash
+python train.py --img 320 --batch 16 --epochs 5 --data dataset2.yaml --weights yolov5s.pt
+```
