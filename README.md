@@ -14,7 +14,7 @@ git clone https://github.com/tzutalin/labelImg
 git clone https://github.com/ultralytics/yolov5
 ```
 
-# 4.安裝requirement.txt
+# 4.安裝requirement.txt (在yolov5下面的目錄)
 
 ```bash
 pip install -r requirements.txt
