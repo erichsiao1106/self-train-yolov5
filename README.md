@@ -1,7 +1,9 @@
-# 1.安裝torch
+# 一.安裝配置
+
+## 1.安裝torch
 https://pytorch.org/get-started/locally/
 
-# 2.下載labelmg
+## 2.下載labelmg
 
 [https://github.com/tzutalin/labelImg](https://github.com/tzutalin/labelImg)
 
@@ -9,13 +11,17 @@ https://pytorch.org/get-started/locally/
 git clone https://github.com/tzutalin/labelImg
 ```
 
-# 3.下載yolo5
+## 3.下載yolo5
 ```bash
 git clone https://github.com/ultralytics/yolov5
 ```
 
-# 4.安裝requirement.txt (在yolov5下面的目錄)
+## 4.安裝requirement.txt (在yolov5下面的目錄)
 
 ```bash
 pip install -r requirements.txt
 ```
+
+# 二.訓練
+
+##1.使用takepic.py製作自己的影像資料
