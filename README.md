@@ -41,3 +41,11 @@ pip install lxml
 ```bash
 pyrcc5 -o libs/resources.py resources.qrc
 ```
+
+## 4.使用labelimg
+找到labelimg/data 內的檔案predefines_classes.txt
+修改成你自訂的類別
+再執行
+```bash
+python labelImg.py
+```
