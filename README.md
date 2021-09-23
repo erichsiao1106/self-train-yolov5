@@ -8,7 +8,7 @@ Youtube影片
 
 
 training demo
-
+!<image>("")
 
 # 一.安裝配置
 
