@@ -79,5 +79,5 @@ names: ['glass','phone','mask','clean_face']  # class names
 python train.py --img 320 --batch 16 --epochs 5 --data dataset.yaml --weights yolov5s.pt
 ```
 
-## 7.在yolov5/runs/train/exp/
+## 7.在yolov5/runs/train/exp/weights
 <br>生成訓練好的best.pt
