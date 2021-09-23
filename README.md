@@ -2,8 +2,8 @@
 自己建造Dataset (利用takepic.py可以輕鬆建置自己的train圖集) <br>
 依照下面步驟，設置環境、label自己的訓練資料、訓練模型 <br>
 將訓練出來的模型pt檔(pytorch)來偵測 <br>
-圖片
-影片
+本地圖片 影片
+Youtube影片
 視訊
 
 
