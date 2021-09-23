@@ -8,7 +8,7 @@ Youtube影片
 
 
 training demo<br>
-!<image>(https://github.com/erichsiao1106/self-train-yolov5/blob/main/train_batch2.jpg)
+![image](https://github.com/erichsiao1106/self-train-yolov5/blob/main/train_batch2.jpg)
 
 # 一.安裝配置
 
