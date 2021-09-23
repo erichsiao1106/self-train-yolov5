@@ -64,5 +64,5 @@ names: ['glass','phone','mask','clean_face']  # class names
 
 ## 6.開始訓練
 ```bash
-python train.py --img 320 --batch 16 --epochs 5 --data dataset2.yaml --weights yolov5s.pt
+python train.py --img 320 --batch 16 --epochs 5 --data dataset.yaml --weights yolov5s.pt
 ```
