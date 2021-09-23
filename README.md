@@ -7,6 +7,9 @@ Youtube影片
 視訊
 
 
+training demo
+
+
 # 一.安裝配置
 
 ## 1.安裝torch
