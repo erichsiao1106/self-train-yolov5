@@ -49,3 +49,15 @@ pyrcc5 -o libs/resources.py resources.qrc
 ```bash
 python labelImg.py
 ```
+## 5.dataset.yaml(在yolov5自己內建)
+
+```bash
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: ../data
+train: images
+val: images 
+
+# Classes
+nc: 4  # number of classes
+names: ['glass','phone','mask','clean_face']  # class names
+```
