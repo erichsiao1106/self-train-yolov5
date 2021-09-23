@@ -78,3 +78,6 @@ names: ['glass','phone','mask','clean_face']  # class names
 ```bash
 python train.py --img 320 --batch 16 --epochs 5 --data dataset.yaml --weights yolov5s.pt
 ```
+
+## 7.在yolov5/runs/train/exp/
+<br>生成訓練好的best.pt
