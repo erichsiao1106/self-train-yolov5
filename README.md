@@ -10,3 +10,12 @@ git clone https://github.com/tzutalin/labelImg
 ```
 
 # 3.下載yolo5
+```bash
+git clone https://github.com/ultralytics/yolov5
+```
+
+# 4.安裝requirement.txt
+
+```bash
+pip install -r requirements.txt
+```
